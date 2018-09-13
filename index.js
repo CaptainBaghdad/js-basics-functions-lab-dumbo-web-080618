@@ -36,4 +36,9 @@ function distanceTravelledInFeet(start, stop){
   
 }
 
+function calculatesFarePrice(){
+  
+  
+}
+
 

@@ -10,3 +10,9 @@ function distanceFromHqInBlocks(block){
    }
   
 }
+
+
+function distanceFromHqInFeet(block){
+   
+  
+}

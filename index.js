@@ -55,6 +55,8 @@ function calculatesFarePrice(start, stop){
    else {
     return "cannot travel that far";
   }
+
+  
 }
 
 
